@@ -1,121 +1,28 @@
-# Hi 👋, I'm Swati Mishra
+<!-- ======================= HERO ======================= -->
 
-### B.Tech AI & ML Student | Aspiring AI/ML & GenAI Developer 🚀
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=swatimishra206&label=Profile%20Views&color=blue&style=flat)](https://github.com/swatimishra206)
+# 👋 Hi, I'm **Swati Mishra**
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI%2FML+Student+%F0%9F%A4%96;Aspiring+GenAI+Developer+%F0%9F%9A%80;Python+%7C+SQL+%7C+Machine+Learning;Exploring+LLMs+%7C+RAG+%7C+LangChain)](https://git.io/typing-svg)
+### `AI/ML Student` • `GenAI Explorer` • `Computer Vision Enthusiast`
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=swatimishra206&label=Profile%20Views&color=6C63FF&style=flat-square)](https://github.com/swatimishra206)
+[![GitHub](https://img.shields.io/badge/GitHub-Swati%20Mishra-181717?style=flat-square&logo=github)](https://github.com/swatimishra206)
 
-## 👩‍💻 About Me
+<br>
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 🐍 Skilled in **Python, SQL and Machine Learning**
-- 🤖 Exploring **Generative AI, LLMs, RAG and LangChain**
-- 🧠 Interested in **AI/ML, Data Analysis and Computer Vision**
-- 🚀 Building practical AI-powered projects
-- 📚 Always learning and improving my technical skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI+%26+ML+Projects+%F0%9F%A4%96;Exploring+Generative+AI+%F0%9F%9A%80;Learning+LLMs+%7C+RAG+%7C+LangChain;Turning+Ideas+into+Working+Projects+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Who Am I?
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-`Machine Learning` `Deep Learning` `CNN` `NLP` `Computer Vision`
-
-### 📚 Libraries & Frameworks
-
-`NumPy` `Pandas` `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `LangChain`
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🗣️ Lip Reading System
-
-AI-based lip reading system using **Python, OpenCV, TensorFlow and CNN** to recognize spoken words from lip movements.
-
-🔗 [View Project](https://github.com/swatimishra206)
-
----
-
-### 📧 Spam Mail Detection
-
-Machine learning project for classifying emails as **Spam or Not Spam** using Python and Scikit-learn.
-
-🔗 [View Project](https://github.com/swatimishra206)
-
----
-
-### ❤️ Heart Disease Prediction
-
-Machine learning project for predicting heart disease using **Python and Scikit-learn**.
-
-🔗 [View Project](https://github.com/swatimishra206)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swatimishra206&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=swatimishra206&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatimishra206&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/swati-mishra-a82421338/?isSelfProfile=true">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-</p>
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's learn, build and grow together 🚀**
+```text
+🎓 B.Tech AI & ML Student
+💻 Python | C++ | SQL
+🤖 Machine Learning | Deep Learning | Computer Vision
+🧠 Exploring GenAI | LLMs | RAG | LangChain
+🚀 Interested in building practical AI solutions
+🎯 Goal → AI/ML & GenAI Engineering
