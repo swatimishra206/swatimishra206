@@ -43,7 +43,7 @@
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,googlecolab" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 AI-based lip reading system using **Python, OpenCV, TensorFlow and CNN** to recognize spoken words from lip movements.
 
-🔗 [View Project](https://github.com/swatimishra206)
+🔗 [View GitHub Profile](https://github.com/swatimishra206)
 
 ---
 
@@ -62,7 +62,7 @@ AI-based lip reading system using **Python, OpenCV, TensorFlow and CNN** to reco
 
 Machine learning project for classifying emails as **Spam or Not Spam** using Python and Scikit-learn.
 
-🔗 [View Project](https://github.com/swatimishra206)
+🔗 [View GitHub Profile](https://github.com/swatimishra206)
 
 ---
 
@@ -70,7 +70,7 @@ Machine learning project for classifying emails as **Spam or Not Spam** using Py
 
 Machine learning project for predicting heart disease using **Python and Scikit-learn**.
 
-🔗 [View Project](https://github.com/swatimishra206)
+🔗 [View GitHub Profile](https://github.com/swatimishra206)
 
 ---
 
@@ -104,15 +104,48 @@ Machine learning project for predicting heart disease using **Python and Scikit-
 
 ---
 
+## 🧩 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/AlgoSwati/">
+
+<img src="https://leetcard.jacoblin.cool/AlgoSwati?theme=dark&font=Karma&ext=heatmap" width="600"/>
+
+</a>
+
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/swati-mishra-a82421338/?isSelfProfile=true">
-<a href="https://<a href="https://leetcode.com/u/swatimishra206/">">
-  
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-<img src="https://leetcard.jacoblin.cool/swatimishra206?theme=dark&font=Karma&ext=heatmap" width="600"/>
+<!-- LinkedIn -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/AlgoSwati/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<!-- GitHub -->
+<a href="https://github.com/swatimishra206">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<!-- Gmail -->
+<a href="mailto:YOUR_EMAIL">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
 </a>
 
 </p>
