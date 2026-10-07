@@ -1,73 +1,131 @@
-# Hi, I'm Swati Mishra 👋
+# Hi 👋, I'm Swati Mishra
 
-### B.Tech AI & ML Student | Aspiring AI/ML & GenAI Developer
+### B.Tech AI & ML Student | Aspiring AI/ML & GenAI Developer 🚀
 
-I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, passionate about building practical solutions using **Python, Machine Learning and Generative AI**.
+[![Profile Views](https://komarev.com/ghpvc/?username=swatimishra206&label=Profile%20Views&color=blue&style=flat)](https://github.com/swatimishra206)
 
-Currently exploring **LLMs, RAG, LangChain and AI-powered applications** while strengthening my foundations in Machine Learning and Data Analysis.
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI%2FML+Student+%F0%9F%A4%96;Aspiring+GenAI+Developer+%F0%9F%9A%80;Python+%7C+SQL+%7C+Machine+Learning;Exploring+LLMs+%7C+RAG+%7C+LangChain)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 What I Work With
+## 👩‍💻 About Me
 
-**Languages**
-  
-Python · C++ · SQL
+- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 🐍 Skilled in **Python, SQL and Machine Learning**
+- 🤖 Exploring **Generative AI, LLMs, RAG and LangChain**
+- 🧠 Interested in **AI/ML, Data Analysis and Computer Vision**
+- 🚀 Building practical AI-powered projects
+- 📚 Always learning and improving my technical skills
 
-**AI / Machine Learning**
+---
 
-Machine Learning · Deep Learning · CNN · NLP · Computer Vision
+## 🛠️ Tech Stack
 
-**Libraries & Frameworks**
+### 💻 Programming Languages
 
-NumPy · Pandas · Scikit-learn · TensorFlow · Keras · OpenCV · LangChain
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
 
-**Tools**
+### 🤖 AI / ML
 
-Git · GitHub · VS Code · Google Colab
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+`Machine Learning` `Deep Learning` `CNN` `NLP` `Computer Vision`
+
+### 📚 Libraries & Frameworks
+
+`NumPy` `Pandas` `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `LangChain`
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🗣️ Lip Reading System
-AI-based lip reading system that recognizes spoken words from lip movements using:
 
-**Python · OpenCV · TensorFlow · CNN**
+AI-based lip reading system using **Python, OpenCV, TensorFlow and CNN** to recognize spoken words from lip movements.
 
-- Face and lip-region detection
-- Video frame preprocessing
-- CNN-based word classification
-
-[View on GitHub →](https://github.com/swatimishra206)
+🔗 [View Project](https://github.com/swatimishra206)
 
 ---
 
 ### 📧 Spam Mail Detection
-Machine Learning model for classifying emails as **Spam or Not Spam**.
 
-**Python · NLP · Scikit-learn**
+Machine learning project for classifying emails as **Spam or Not Spam** using Python and Scikit-learn.
 
-[View on GitHub →](https://github.com/swatimishra206)
+🔗 [View Project](https://github.com/swatimishra206)
 
 ---
 
 ### ❤️ Heart Disease Prediction
-Machine Learning project for predicting the likelihood of heart disease.
 
-**Python · Pandas · Scikit-learn**
+Machine learning project for predicting heart disease using **Python and Scikit-learn**.
 
-[View on GitHub →](https://github.com/swatimishra206)
+🔗 [View Project](https://github.com/swatimishra206)
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-```text
-Generative AI
-LLMs
-RAG
-LangChain
-AI Agents
-Data Analysis
-DSA
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swatimishra206&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=swatimishra206&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatimishra206&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/AlgoSwati/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/swatimishra206">
+<img src="https://cdn.simpleicons.org/github/181717" width="45"/>
+</a>
+
+</p>
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's learn, build and grow together 🚀**
