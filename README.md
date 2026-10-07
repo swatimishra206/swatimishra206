@@ -109,9 +109,10 @@ Machine learning project for predicting heart disease using **Python and Scikit-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/swati-mishra-a82421338/?isSelfProfile=true">
-<a href="https://leetcode.com/u/swatimishra206/">
+<a href="https://<a href="https://leetcode.com/u/swatimishra206/">">
   
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://leetcard.jacoblin.cool/swatimishra206?theme=dark&font=Karma&ext=heatmap" width="600"/>
 </a>
 
 </p>
